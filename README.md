@@ -16,5 +16,7 @@ npm install 或 yarn
 npm run dev
 
 # 发布环境
+1.修改文件./src/ApiConfig.vue的API地址，将 const BaseUrl=''; //修改成API服务器地址
+2.发布
 npm run build
 ```
