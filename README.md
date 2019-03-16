@@ -1,13 +1,13 @@
-# Exdoc-Vue-
+# Exdoc-Vue版
 Vue+CodeIgniter前后端分离的文档管理工具
 
 ## 项目运行
 ``` bash
 # 克隆到本地
-git clone https://github.com/HXCblog/Exdoc-Vue-.git
+git clone https://github.com/HXCblog/Exdoc-Vue.git
 
 # 进入文件夹
-cd Exdoc-Vue-
+cd Exdoc-Vue
 
 # 安装依赖
 npm install 或 yarn
