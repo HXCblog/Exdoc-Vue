@@ -45,5 +45,6 @@ export default {
 
 <style scoped>
 div >>> pre{background:#fcf6e5;padding: 20px; border-radius: 20px; color:#333;font-family:Arial,Verdana,Sans-serif;}
+div >>>  img{max-width: 100%;}
 .PageList{padding: 20px 30px;}
 </style>
