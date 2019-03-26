@@ -1,6 +1,6 @@
 
 <script>
-const BaseUrl='http://192.168.0.50/index.php'; //网址
+const BaseUrl='http://apiexdoc.huxinchun.com'; //网址
 const PageCateUrl='/Api'; //http://192.168.0.50/index.php/Api
 const PageListUrl='/api/list?id='; //http://192.168.0.50/index.php/api/list?id=
 const PageContentUrl='/api/content?id='; //http://192.168.0.50/index.php/api/content?id=
