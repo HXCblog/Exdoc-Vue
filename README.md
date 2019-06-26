@@ -23,6 +23,6 @@ npm run build
 ## 部分开放的API测试接口
 1.  http://apiexdoc.huxinchun.com/Api             //所有文档接口
 2.  http://apiexdoc.huxinchun.com/api/list?id=    //文档小节目录接口 id后接参数
-3.  http://apiexdoc.huxinchun.com/content?id=     //文档详细内容接口 id后需要加文档id
+3.  http://apiexdoc.huxinchun.com/api/content?id=     //文档详细内容接口 id后需要加文档id
 4.  http://apiexdoc.huxinchun.com/api/linkcate    //链接分类接口
 5.  http://apiexdoc.huxinchun.com/api/links?aid=  //分类链接详情接口 api需要跟分类链接aid号
